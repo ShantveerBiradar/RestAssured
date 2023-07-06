@@ -6,5 +6,5 @@ Feature of this Project are
    >Soap
 2. User can also construct the request body using parameters fed from excelfile, I have created an utility using ApachePOI to read data from excel.
 3. This project is built on the concept of static data.
-   >I have designed the project into classes depending upon the methods used. 
-4. The test execution is driven by Static XML.  
+   >I have designed the project such that it consist of classes depending upon the methods used.
+4. The test execution is driven by Static XML. 
